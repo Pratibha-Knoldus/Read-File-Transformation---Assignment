@@ -1,0 +1,1 @@
+Hello! This is a sample file which contains sample words which can be counted using java program. This file can be edited or changed it's content.
